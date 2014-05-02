@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1010]C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\bin\Debug\TestSoapWS.dll</TopNode>
+  <SelectedNode>[0-1009]TestSoapWS.Service.SoapServiceCalnearComnRewardPoints</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\bin\Debug\TestSoapWS.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]TestSoapWS" Expanded="true" />
+    <Node UniqueName="[0-1000]TestSoapWS.Service" Expanded="true" />
+  </Nodes>
+</VisualState>

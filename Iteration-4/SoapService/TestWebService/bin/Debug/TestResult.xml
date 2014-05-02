@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Ganapathy\Documents\Vinu\ASE\Midterm\SoapService\TestWebService\bin\Debug\TestWebService.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-04-18" time="21:36:18">
+  <environment nunit-version="2.5.5.10112" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0" machine-name="FAMILY-PC" user="Ganapathy" user-domain="Family-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Ganapathy\Documents\Vinu\ASE\Midterm\SoapService\TestWebService\bin\Debug\TestWebService.dll" executed="True" result="Success" success="True" time="1.911" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestWebService" executed="True" result="Success" success="True" time="1.899" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="WebService1Tests" executed="True" result="Success" success="True" time="1.897" asserts="0">
+            <results>
+              <test-case name="TestWebService.WebService1Tests.GetCityNotesDoesNotReturnNotesTest" executed="True" result="Success" success="True" time="1.872" asserts="1" />
+              <test-case name="TestWebService.WebService1Tests.GetCityNotesReturnNotesTest" executed="True" result="Success" success="True" time="0.009" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

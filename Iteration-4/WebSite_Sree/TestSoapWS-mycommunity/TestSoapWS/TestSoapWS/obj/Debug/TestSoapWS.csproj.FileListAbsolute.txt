@@ -1,0 +1,7 @@
+C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\bin\Debug\TestSoapWS.dll.config
+C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\bin\Debug\TestSoapWS.dll
+C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\bin\Debug\TestSoapWS.pdb
+C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\bin\Debug\nunit.framework.dll
+C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\bin\Debug\nunit.framework.xml
+C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\obj\Debug\TestSoapWS.dll
+C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\obj\Debug\TestSoapWS.pdb

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\obj\Debug\TempPE\Web References.SoapWebReference.Reference.cs.dll" total="0" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-03-22" time="14:49:12">
+  <environment nunit-version="2.5.5.10112" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0" machine-name="SREE-PC" user="sree" user-domain="sree-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\sree\Documents\Visual Studio 2012\Projects\TestSoapWS\TestSoapWS\obj\Debug\TempPE\Web References.SoapWebReference.Reference.cs.dll" executed="False" result="NotRunnable">
+    <reason>
+      <message><![CDATA[Has no TestFixtures]]></message>
+    </reason>
+  </test-suite>
+</test-results>

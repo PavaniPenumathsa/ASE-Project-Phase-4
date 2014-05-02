@@ -1,0 +1,17 @@
+c:\users\ganapathy\documents\visual studio 2010\Projects\SoapService\SoapService\bin\SoapService.dll
+c:\users\ganapathy\documents\visual studio 2010\Projects\SoapService\SoapService\bin\SoapService.pdb
+c:\users\ganapathy\documents\visual studio 2010\Projects\SoapService\SoapService\obj\Debug\SoapService.dll
+c:\users\ganapathy\documents\visual studio 2010\Projects\SoapService\SoapService\obj\Debug\SoapService.pdb
+C:\Users\Ganapathy\Documents\Visual Studio 2010\Projects\SoapService\SoapService\obj\Debug\SoapService.csprojResolveAssemblyReference.cache
+C:\Vinu\SoapService\SoapService\bin\SoapService.dll
+C:\Vinu\SoapService\SoapService\bin\SoapService.pdb
+C:\Vinu\SoapService\SoapService\obj\Debug\SoapService.csprojResolveAssemblyReference.cache
+C:\Vinu\SoapService\SoapService\obj\Debug\SoapService.dll
+C:\Vinu\SoapService\SoapService\obj\Debug\SoapService.pdb
+C:\Users\Ganapathy\Documents\Vinu\ASE\Midterm\SoapService\SoapService\bin\SoapService.dll
+C:\Users\Ganapathy\Documents\Vinu\ASE\Midterm\SoapService\SoapService\bin\SoapService.pdb
+C:\Users\Ganapathy\Documents\Vinu\ASE\Midterm\SoapService\SoapService\obj\Debug\SoapService.csprojResolveAssemblyReference.cache
+C:\Users\Ganapathy\Documents\Vinu\ASE\Midterm\SoapService\SoapService\obj\Debug\SoapService.dll
+C:\Users\Ganapathy\Documents\Vinu\ASE\Midterm\SoapService\SoapService\obj\Debug\SoapService.pdb
+C:\Users\Ganapathy\Documents\Vinu\ASE\Midterm\SoapService\SoapService\bin\nunit.framework.dll
+C:\Users\Ganapathy\Documents\Vinu\ASE\Midterm\SoapService\SoapService\bin\nunit.framework.xml
